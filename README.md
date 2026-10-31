@@ -24,7 +24,7 @@ My current focus is strengthening my development foundations and learning to bui
 
 A web catalog project for Kalo Jersey.
 
-[View website](https://alexbrine0.github.io/Catalogo-Kalo-Jersey/) · [Source code](https://github.com/ALEXBRINE0/Catalogo-Kalo-Jersey)
+[View website](https://kalojerseys.github.io/Catalogo/) · [Source code](https://github.com/kaloJerseys/Catalogo)
 
 ### MiDinero
 
